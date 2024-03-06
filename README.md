@@ -24,6 +24,7 @@ This repository serves as my learning environment of "Create AI-Powered Apps wit
 - Infinite Learning (Batam, Indonesia)
 
 ## Installation
+**You have to change the "YOUR_OPENAI_API_KEY" from the codes to your specific OpenAI API Key first before launch the program!**
 To install this project, simply clone the repository and run the following commands:
 
 ```bash
